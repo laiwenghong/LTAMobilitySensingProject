@@ -2,7 +2,7 @@
 """
 Created on Sun Jan 24 20:31:58 2021
 
-@author: Ang Kai Yang
+@author: Lai Weng Hong
 """
 #Pipeline functions
 import pandas as pd
